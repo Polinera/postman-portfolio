@@ -1,2 +1,1 @@
-# postman-portfolio
-API testing project using Postman with the JSONPlaceholder API. Includes organized collections, environment variables, and automated tests for GET, POST, PUT, and DELETE requests. Demonstrates practical API testing workflow with clear documentation and screenshots.
+Showcasing practical API testing skills with Postman, this project includes organized collections, environment variables, and automated tests for GET, POST, PUT, and DELETE requests. It demonstrates a complete API testing workflow, structured for clarity and real-world applicability, highlighting the ability to validate responses, maintain reusable test collections, and efficiently test any RESTful API.
